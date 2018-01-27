@@ -12,10 +12,10 @@ bot = praw.Reddit(user_agent='CCPredictor',
 
 subreddit = bot.subreddit('CryptoCurrency')
 
-sys.stdout = open('Outputtest.txt', 'wt')
+sys.stdout = open('Output3.txt', 'wt')
 
 
-submission = bot.submission(url="https://www.reddit.com/r/CryptoCurrency/comments/7teo2r/which_coins_do_you_think_are_undervalued_right/")
+submission = bot.submission(url="https://www.reddit.com/r/CryptoCurrency/comments/7tdboc/the_major_shortterm_problem_with_cryptocurrency/")
 print(submission.title)
 
 submission.comments.replace_more(limit=0)
