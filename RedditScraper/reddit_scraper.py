@@ -26,12 +26,13 @@ for submission in subreddit.hot(limit=5):
                 for reply in comment.replies:
                     print("REPLY:")
                     print("\t" + reply.body)
-'''
 
-sys.stdout = open('Output.txt', 'wt')
+'''
+sys.stdout = open('Output2.txt', 'wt')
 
 for submission in subreddit.hot(limit=4):
     if not submission.stickied:
+    #submission = subreddit.submission(url="https://www.reddit.com/r/CryptoCurrency/comments/7teo2r/which_coins_do_you_think_are_undervalued_right/")
         if 'Bitcoin' in submission.title:
             print(submission.title)
 
@@ -47,3 +48,4 @@ for submission in subreddit.hot(limit=4):
                     for reply in comment.replies:
                         #print('REPLY:')
                         print(reply.body)
+
