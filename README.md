@@ -1,3 +1,5 @@
 # CryptoPredictor
 
-Lick my balls.
+Required Dependencies:
+
+scrapy (pip install scrapy)
