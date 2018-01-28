@@ -1,0 +1,35 @@
+Thank goodness DEX's are coming out like Airswap!!! No fees. Keep your own money till atomic swap. Liquidity. Co-creator of Ethereum...Feb1st trading starts ETH/AST.
+Starbucks Chairman Howard Shultz said the coffee chain plans to incorporate blockchain technology and digital currencies into its long-term payment technology strategy, and hopes to "expand digital customer relationships."
+
+Shultz does not, however, believe that bitcoin will play a role in this strategy, remarking that he didn't believe the original cryptocurrency would "be a currency today or in the future."
+
+He clarified that **Starbucks is not developing a digital currency** or announcing an investment in blockchain or cryptocurrencies, but would like to use its stature to lend credibility to these technologies.
+
+https://www.coindesk.com/starbucks-chairman-hot-blockchain-cold-bitcoin/ 
+
+Starbucks' Howard Schultz: A 'trusted' digital currency is coming, but it won't be bitcoin
+
+**"One or a few legitimate" cryptocurrencies are coming, but bitcoin is not one of them**, according to the Starbucks executive chairman.
+
+Schultz sees potential in blockchain, the online ledger technology underlying digital currencies.
+
+https://www.cnbc.com/2018/01/26/starbucks-schultz-a-digital-currency-is-coming-but-wont-be-bitcoin.html
+
+STARBUCKS is set to become one of the first major high street shops to accept cryptocurrency after it announced plans to incorporate blockchain as part of its payment strategy, but **in a snub it has ruled out using Bitcoin**.
+
+https://www.express.co.uk/finance/city/910629/bitcoin-cryptocurrency-news-latest-Ripple-Ethereum-price-value-surge-starbucks-payment
+Step one, Starbucks joins the Enterprise Ethereum Alliance.
+
+Step two, Starbucks starts accepting Ether directly.
+
+Mark my words!
+OmiseGo has been flying under the radar for quite some time but I've been following it from the start and there's currently a lot of information out with more coming but here's a quick rundown. 
+
+It will be the first to run Ethereums plasma project and was specifically designed around it. Omise has been involved in the development of plasma since before it was announced and working alongside Vitalik, Joseph Poon, David Knott who is now an [OMG](https://twitter.com/omise_go/status/953041263393095680?lang=en) dev and more.  [Omisego](https://np.reddit.com/r/omise_go/comments/7t5upt/decentralized_exchange/dtahpk0/) on reddit has even shared that plasma was Joseph Poons original plan stemming all the way back to 2014 but lightning network was created instead due to BTC's limitations. Vitalik recently disclosed in a [podcast](http://unchainedpodcast.co/vitalik-buterin-creator-of-ethereum-on-the-big-guy-vs-the-little-guy) (mentioned at 22:40) that he has come up with "Minimum Viable Plasma" which is a scaled down/beta version of the final plasma that should be easy to implement.
+
+OMG has their first [Q&A](https://np.reddit.com/r/omise_go/comments/7r8sy3/official_questions_thread_for_omisego_town_hall/) happening on the 31st with lot's of great questions being asked. As far as we know now we have wallet release in Q1 with a "multinational conglomerate" integrating the wallet within a month of its release, staking coming in Q2, and plasma beta (should be out long before dex or cash/inout) along with DEX and cash in/out still TBA. Omisego is a white label wallet validating transactions using POS and can be integrated by any entity without formal partnerships with Omise, more info on OMG can be found [here](https://techburst.io/the-complete-omisego-reference-october-2017-81c2232ae393) and more plasma information [here](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612)
+NAV is interesting as a “jack of all trades” coin. It does a lot of things, but it’ll never be the best at any of them. It’s reasonably fast, it’ll have Dapp capability, and it has some level of privacy. 
+
+Its speed will never match RaiBlocks, its Dapp abilities will never hold a candle to Ethereum, and its privacy will never beat Monero. But there will always be a place for a coin that tries to do all three, and that’s NAV.
+
+Edit: I am not sure why I’m being downvoted for this. I’m not insulting NAV; I’m stating facts about what NAV is. What is incorrect about what I’ve said?

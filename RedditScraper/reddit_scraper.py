@@ -14,7 +14,7 @@ subreddit = bot.subreddit('CryptoCurrency')
 sys.stdout = open('Output2.txt', 'wt')
 
 
-for submission in subreddit.hot(limit=3):
+for submission in subreddit.hot(limit=20):
     if not submission.stickied:
 
         if SEARCH_KEYWORD in submission.title: print(submission.title)
