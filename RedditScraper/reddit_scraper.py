@@ -1,8 +1,7 @@
 import praw
 import sys
 
-reload(sys)
-sys.setdefaultencoding('utf8')
+#sys.setdefaultencoding('utf8')
 
 bot = praw.Reddit(user_agent='CCPredictor',
                   client_id='zQdUF_lBvcrKXw',
