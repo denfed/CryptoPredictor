@@ -16,20 +16,18 @@ if __name__ == '__main__':
 import csv
 
 # Set up input and output variables for the script
-file = open("crypto-markets.csv", "r")
+file = open("crypto-markets-trimmed.csv", "r")
 
 # Set up CSV reader and process the header
 csvReader = csv.reader(file)
 
 # Make an empty list
-coordList = []
+nameList = []
 
 # Loop through the lines in the file and get each coordinate
 for row in csvReader:
     name = row[0]
-    if name not in coordList:
-        print(name)
-        coordList.append([name])
+    if name not in nameList:
+        nameList.append(name)
 
 # Print the coordinate list
-print(coordList)
