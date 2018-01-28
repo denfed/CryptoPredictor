@@ -11,23 +11,18 @@
 if __name__ == '__main__':
     getNames()
 '''
-# This script reads a GPS track in CSV format and
-#  prints a list of coordinate pairs
+
 import csv
 
-# Set up input and output variables for the script
-file = open("crypto-markets-trimmed.csv", "r")
+def getNames():
+    file = open("crypto-markets-trimmed.csv", "r")
+    csvReader = csv.reader(file)
+    nameList = []
+    for row in csvReader:
+        name = ' ' + row[0] + ' '
+        if name not in nameList:
+            nameList.append(name)
+    return nameList
 
-# Set up CSV reader and process the header
-csvReader = csv.reader(file)
-
-# Make an empty list
-nameList = []
-
-# Loop through the lines in the file and get each coordinate
-for row in csvReader:
-    name = row[0]
-    if name not in nameList:
-        nameList.append(name)
-
-# Print the coordinate list
+if __name__ == '__main__':
+    getNames()

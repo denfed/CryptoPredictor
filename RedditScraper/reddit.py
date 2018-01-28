@@ -11,7 +11,7 @@ def scrape(subred, queries, limit, outputFile, startTime = 0, endTime = 99999999
                       password='CryptoBot')
 
 
-    for II in bot.subreddit(subred).hot(limit=limit):
+    for II in bot.subreddit(subred).submissions(start=1490000000, end=1506816000):
         recordSubmission(II, outputFile, queries)
 
 
@@ -37,4 +37,5 @@ def recordSubmission(sub, filename, queries):
                 fileObj.write('\n')
     return
 # insert matrix for coin names                            >>>here<<<
-if __name__ == '__main__': scrape('CryptoCurrency', g.getNames(), 50, 'output.json')
+#if __name__ == '__main__': scrape('CryptoCurrency', g.getNames(), 50, 'output.json')
+if __name__ == '__main__': scrape('CryptoCurrency', ['bitcoin'], 50, 'output.json')
