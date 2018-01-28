@@ -28,24 +28,25 @@ for submission in subreddit.hot(limit=5):
                     print("\t" + reply.body)
 
 '''
-sys.stdout = open('Output.txt', 'wt')
+sys.stdout = open('Output2.txt', 'wt')
+search = 'Ethereum'
 
-for submission in subreddit.hot(limit=20):
+for submission in subreddit.hot(limit=30):
     if not submission.stickied:
     #submission = subreddit.submission(url="https://www.reddit.com/r/CryptoCurrency/comments/7teo2r/which_coins_do_you_think_are_undervalued_right/")
 
-        if 'Bitcoin' in submission.title: print(submission.title)
+        if search in submission.title: print(submission.title)
 
         submission.comments.replace_more(limit=0)
         comments = submission.comments
-        if 'Bitcoin' in submission.selftext: print(submission.selftext)
+        if search in submission.selftext: print(submission.selftext)
 
         for comment in comments:
             #print(20*'-')
-            if 'Bitcoin' in comment.body: print(comment.body)
+            if search in comment.body: print(comment.body)
 
             if len(comment.replies) > 0:
                 for reply in comment.replies:
                     #print('REPLY:')
-                    if 'Bitcoin' in reply.body: print(reply.body)
+                    if search in reply.body: print(reply.body)
 

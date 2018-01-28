@@ -31,7 +31,6 @@ Because we don't know if it is secure yet. I will get downvoted, I'm ready for i
 I hold XRB myself for the potential but people need to understand that it is still untested and nobody knows if it's as good as it seems.
 Found the bitcoin investor. Bitcoin is way too slow and fees are way too high for it to ever be a real currency. It’s going to keep falling in value.
 This is good for Bitcoin.
-Well the true is, Bitcoin its not the only crytocurrency, we have EOS and ETH going pretty good.
 They want to use their trusted Starbucks solution. Bitcoin is Trustless - see? Don't trust, verify.
 Bitcoin needs to formally figure out what it really wants to be. Store of wealth? Fine. But make it clear.
 This is good for Bitcoin.
@@ -142,7 +141,6 @@ You forgot one crucial fact of the cryptocurrency market - It's currently all sp
 This means that market sentiment becomes a self-fulfilling prophecy. It doesn't matter if Bitcoin futures *actually* drive down the price of Bitcoin. If people *believe* that they will, then they panic sell and the price goes down anyway. 
 The speculation argument is becoming less true every day. For those that don't know, speculation is not the same as investment. Investment is putting your money to work making more money, like buying income-producing properties. Speculation is buying something in the hopes that someone else will buy it from you for a higher price in the future, such as trying to buy land where you think the new beachfronts will be after global warming runs it's course. I agree that for many of the coins/tokens on the market, the trading is 100% speculative. But there are a few coins that have a product that isn't about money, their tokens just need a value to foster scarcity. I bought some MANA to actually use and play with in a digital world. I bought some Cryptokitties because I wanted to take part in one of the first "games" on the blockchain. Some tokens are shares in a decentralized organization, so they will pay dividends. And those are just a few examples. Bitcoin (and other pure currency coins) are starting to see less speculation too because people are noticing the long transaction times and huge fees. People are actually wanting to transfer value instead of sitting on it and hoping someone buys it for more in the future. Even if your supporting evidence isn't the strongest, your actual point still remains true though; these markets are driven by hype and emotion.
 Thanks for taking the time to explain Bitcoin Futures! I was getting confused with all the FUD about them.
-LedgerX already supports options on Bitcoin proper. It's currently for big boys only, but that might change in time. The order book is extremely thin because, to be honest, no one is really interested. 
 I think it is great that people like you take the time to educate others involved in this crazy opportunity of a lifetime evolving through blockchain technology. 
 Unfortunately FUD and FOMO are based on an irrational mind set and are purely emotional  reactions. The vastly mass of novice investors entering this market with dreams and hopes of "mooning" quickly is not psychologically prepared to handle the financial rollercoaster of crypto volatility. 
 Thank you though for taking the time to elaborate and explain!
@@ -166,8 +164,8 @@ The entire idea that it could free us from market forces is, right now, a totall
 Please challenge me if you think I am wrong, but from where I'm sitting, that is all crypto has going for it - a way to make more REAL currency, you know, the currency that can buy you a coffee, a guitar, a car or a house.
 
 Anyone who would try to tell me anything different, as of this day, this time, right now, is a liar. 
+LedgerX already supports options on Bitcoin proper. It's currently for big boys only, but that might change in time. The order book is extremely thin because, to be honest, no one is really interested. 
 One of my favorite concepts to talk about is the peer to peer aspect of crypto currency. Due to decentralized crypto having a primary focus on putting money back into the people's hands I could just find my local crypto dealer and make a transaction that way. Services like LocalBitcoin and Payfair will be an alternate route to make transactions in real life means. Even bank transfers between two clients won't stop a client from making these transactions. Crypto is the future whether the government likes it or not. We're about to see some gold backed crypto popping up reaaallly soon.
-I also heard that 1 of the mods previously of /r/CryptoCurrency was a mod of /r/Bitcoin. /r/Bitcoin is known to be very censored.
 Frustrated with Bitcoin?it’s time to to invest in ethereum
 Or a slew of other coins that are way better than Bitcoin. 
 Coins who compare themselves to Bitcoin are putting the bar seriously low.  
@@ -175,41 +173,6 @@ Fellow Swiss people, let's tweet #PayWithCrypto at Migros, Coop, Digitec/Galaxus
 In which Canton are you living? 
 I saw that Lucerne released a newsletter with some information about how to tax cryptos. 
 https://steuern.lu.ch/-/media/Steuern/Dokumente/SteuerBulletin/2017/SteuerPraxis201720BitcoinundCo.pdf?la=de-CH
-As someone who does not frequent either sub very often, is /r/personalfinance against Bitcoin?
-Wish I had seen this a few weeks ago. I only knew about Bitcoin back then, until I saw a comment in r/worldnews of all places about how RaiBlocks is the next Bitcoin. That got my attention and I searched for it here, and saw all the posts agreeing about it being the next big thing and I started FOMOing hard, without knowing the concept of FOMO. Well, FML, I ended up buying my first crypto at an ATH and then the crash happened.
-
-But at least I got introduced to all the wonderful concepts of FOMO, HODL, and more importantly, shilling.
-Altcoin = any coin that isn’t Bitcoin.
-
-The most important thing to remember is that bitcoin is a technology, not just a currency. The technology is called “blockchain,” or more specifically “distributed blockchain.” 
-
-The technology itself is truly groundbreaking, all memes aside, and will be around for ages. The catch here is that you don’t know which company / blockchain will be the Facebook / Amazon / Google / Netflix  of blockchain.
-
-I would recommend you research the following cryptos. I’m not recommending them - I’m just giving you a list of different cryptos with different use cases that each work differently. Not all of them are intended to be a currency. Some of them are just an asset that will appreciate. If you do research on each of these you should have a good basic understanding of the many use cases of crypto.
-
-Pure currency coins: Bitcoin (BTC), Litecoin (LTC)
-“Bank” coins: ripple (XRP), Stellar (XLM)
-Simple contract coins: Ethereum (ETH)
-Staking contract coins: Neo (NEO), VeChain (VEN)
-DAG coins: RaiBlocks (XRB)
-Privacy coins: Monero (XMR)
-Tokens (contracts): Request (REQ), Modum (MOD), Enigma (ENG).
-
-Hopefully that helps! PM me if you have questions, I love helping new people out.
-u/nikkynak, you've received `0.00063038 BCH ($1 USD)`!
-***
-[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
-^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
-Bitcoin to BOUNCE BACK? Cryptocurrency will return STRONGER, expert says
-Uhh, I don't believe in crypto market "experts". According to my portfolio, I could be an expert myself. But I know everyone is a genius in a bull market, so whatever I guess. 
-
-Edit: But in all fairness, Bitcoin probably will come back stronger, just like anyone could've guessed. Doesn't take an "expert" to figure this out.
-**Bitcoin (BTC) Facts:** [Website](https://bitcoin.org) - r/Bitcoin - Began Jan 3, 2009 - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_wallets) 
-
-**Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Join and Contribute](https://www.reddit.com/r/CryptoWikis/wiki/teams)
-
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
 Hear me out for a moment:
 
 **Background:**
@@ -260,3 +223,48 @@ I've spent Bitcoin on things I wanted, and it's a massive regret that gets worse
 Yes you prefer spending inflationary currencies that you know is never gonna be worth more especially for mundane transactions where you might want more consumer protection like with a credit card. And you prefer storing your wealth in a more secure censorship resistant deflationary asset. I don't see an issue with that.
 But if all you have and earn is Bitcoin for example, then you will spend that because you won't have a choice and probably won't regret it because you didn't have a choice.
 People were still spending their money when there was the gold standard and still spending gold as well when gold was accepted by merchants. It's a mind set change to go back to using sound money,but it's not shortcoming of Cryptocurrencies, it's shortcoming of consumerism mindset brought by inflationary currencies.
+As someone who does not frequent either sub very often, is /r/personalfinance against Bitcoin?
+Wish I had seen this a few weeks ago. I only knew about Bitcoin back then, until I saw a comment in r/worldnews of all places about how RaiBlocks is the next Bitcoin. That got my attention and I searched for it here, and saw all the posts agreeing about it being the next big thing and I started FOMOing hard, without knowing the concept of FOMO. Well, FML, I ended up buying my first crypto at an ATH and then the crash happened.
+
+But at least I got introduced to all the wonderful concepts of FOMO, HODL, and more importantly, shilling.
+Altcoin = any coin that isn’t Bitcoin.
+
+The most important thing to remember is that bitcoin is a technology, not just a currency. The technology is called “blockchain,” or more specifically “distributed blockchain.” 
+
+The technology itself is truly groundbreaking, all memes aside, and will be around for ages. The catch here is that you don’t know which company / blockchain will be the Facebook / Amazon / Google / Netflix  of blockchain.
+
+I would recommend you research the following cryptos. I’m not recommending them - I’m just giving you a list of different cryptos with different use cases that each work differently. Not all of them are intended to be a currency. Some of them are just an asset that will appreciate. If you do research on each of these you should have a good basic understanding of the many use cases of crypto.
+
+Pure currency coins: Bitcoin (BTC), Litecoin (LTC)
+“Bank” coins: ripple (XRP), Stellar (XLM)
+Simple contract coins: Ethereum (ETH)
+Staking contract coins: Neo (NEO), VeChain (VEN)
+DAG coins: RaiBlocks (XRB)
+Privacy coins: Monero (XMR)
+Tokens (contracts): Request (REQ), Modum (MOD), Enigma (ENG).
+
+Hopefully that helps! PM me if you have questions, I love helping new people out.
+u/nikkynak, you've received `0.00063038 BCH ($1 USD)`!
+***
+[^^How to use](https://np.reddit.com/r/tippr/wiki/index) ^^| [^^What is Bitcoin Cash?](https://learnbitcoin.cash/) ^^| [^^Who accepts it?](https://acceptbitcoin.cash) ^^| ^^Powered ^^by ^^[Rocketr](https://rocketr.net) ^^| ^^r/tippr  
+^(Bitcoin Cash is what Bitcoin should be. Ask about it on r/btc)
+Bitcoin to BOUNCE BACK? Cryptocurrency will return STRONGER, expert says
+Uhh, I don't believe in crypto market "experts". According to my portfolio, I could be an expert myself. But I know everyone is a genius in a bull market, so whatever I guess. 
+
+Edit: But in all fairness, Bitcoin probably will come back stronger, just like anyone could've guessed. Doesn't take an "expert" to figure this out.
+**Bitcoin (BTC) Facts:** [Website](https://bitcoin.org) - r/Bitcoin - Began Jan 3, 2009 - [Abstract](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_short_description) - [History](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_history) - [Exchanges](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_exchanges) - [Wallets](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_basicinfo#wiki_wallets) 
+
+**Biases:** [Arguments For](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_pros) & [Arguments Against](https://www.reddit.com/r/CryptoWikis/wiki/Bitcoin_cons) | **CryptoWikis:** [Policy](https://www.reddit.com/r/CryptoCurrency/wiki/policy#wiki_cryptowikis_program_-_.28work_in_progress.29) - [Join and Contribute](https://www.reddit.com/r/CryptoWikis/wiki/teams)
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+There was a thread about crypto on one of the main subreddits the other day. It was exactly what you expected.
+
+To be fair, some folks were posting good stuff and getting upvoted, but there was a shit ton of misinformation too.
+
+For example, one guy didn’t believe in crypto because he didn’t think it was possible to exchange Bitcoin to dollars... 
+You can exchange Bitcoin to dollars?
+You speaking on behalf of everyone? The majority of the planet does not know what cryptocurrency is. Some have heard of Bitcoin recently but that is probably the extend of it. A short 60-sec video could be helpful when explaining the coin to a lay person. Increased adoption is good for every coin. No one forced you to come into this thread and post this comment, but you felt compelled to do it anyway...
+Knumbnuts all developers control a release of any Cryto, even if it's mined there is a release of code etc.  This is just different because it wasn't mined.  Even Satoshi kept a million Bitcoin to himself.
+
+This is probably the most decentralized coin in that it's not controlled by miners.  Then you.have the completely centralized coins like Stellar and Ripple, yuck!
